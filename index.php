@@ -26,11 +26,11 @@
 					<!--menu-->
 					<nav id="home-nav">
 					 	<ul class="mainmenu">
-  							<li><a href="#">Home</a></li>
- 						    <li><a href="#text-center">Product</a></li>
- 						    <li><a href="#">Promotion</a></li>
- 						    <li><a href="#">Cart</a></li>
- 						    <li><a href="#">Help</a></li>
+                                                    <li><a href="ConnectToDB.php">View</a></li>
+                                                    <li><a href="InsertData.php">Insert</a></li>
+                                                    <li><a href="UpdateData.php">Update</a></li>
+                                                    <li><a href="DeleteData.php">Delete</a></li>
+ 						    <li><a href="#">Home</a></li>
 						</ul>						
 					</nav>
 					<!--search-->
