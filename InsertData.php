@@ -57,7 +57,7 @@ $sql = "INSERT INTO product(id, name, price)"
 $stmt = $pdo->prepare($sql);
 //$stmt->execute();
  if (is_null($_POST[id])) {
-   echo "ID must be not null";
+   echo "id must be not null";
  }
  else
  {
