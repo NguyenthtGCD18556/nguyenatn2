@@ -22,7 +22,7 @@
 			<div class="container-menu">
 				<div class="row">
 					<!--logo-->
-					<a href="#" class="logo"><img src="img/logo.png"></a>
+                                        <a href="#" class="logo"><img src="img/logo.PNG"></a>
 					<!--menu-->
 					<nav id="home-nav">
 					 	<ul class="mainmenu">
@@ -116,7 +116,7 @@
  		 	<p>628 Ngo Quyen, Son Tra, Da Nang City</p>
 			<p>Hotline: 0943.116.207</p>
 			<P>Email: nguyentht290820@gmail.com</P>
-		<div class="logo-info"><img src="img/logo.png"></div>
+                        <div class="logo-info"><img src="img/logo.PNG"></div>
   		</div>
  		<div class="row-pro">
  			<h1>Product</h1>
