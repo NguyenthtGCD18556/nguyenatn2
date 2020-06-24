@@ -90,17 +90,17 @@
 <header id="content-2">
 	<div class="box-item">
 		<div class="item-box">
-			<a href="index2.html" target="_blank"><img src="img/ao.jpeg">
+			<a href="index2.html" target="_blank"><img src="img/cauca.jpg">
 			<div class="item-text">Views</div>
 			</a>
 		</div>
 		<div class="item-box">
-			<a href="index2.html" target="_blank"><img src="img/giay.jpg">
+                    <a href="index2.html" target="_blank"><img src="img/phitieu.jpg">
 			<div class="item-text">Views</div>
 			</a>
 		</div>
 		<div class="item-box">
-			<a href="index2.html" target="_blank"><img src="img/Watch.jpg">
+                    <a href="index2.html" target="_blank"><img src="img/thosan.jpg">
 			<div class="item-text">Views</div>
 			</a>
 		</div>
