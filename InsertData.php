@@ -14,9 +14,9 @@ list-style: none;
 <h2>Enter data into table</h2>
 <ul>
     <form name="InsertData" action="InsertData.php" method="POST" >
-<li>ID:</li><li><input type="text" name="customerid" /></li>
-<li>Name:</li><li><input type="text" name="customername" /></li>
-<li>Price:</li><li><input type="text" name="address" /></li>
+<li>ID:</li><li><input type="text" name="id" /></li>
+<li>Name:</li><li><input type="text" name="name" /></li>
+<li>Price:</li><li><input type="text" name="price" /></li>
 <li><input type="submit" value="Submit" /></li>
 </form>
 </ul>
