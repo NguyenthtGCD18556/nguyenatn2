@@ -32,7 +32,7 @@ if (empty(getenv("DATABASE_URL"))){
    $pdo = new PDO("pgsql:" . sprintf(
          "host=
 ec2-52-202-146-43.compute-1.amazonaws.com
-;port=5432;user=lnmlwwbswnzsfa;password=cb977e5e295f4561e6e00a6bfe3cb3f1239bd0a6f672d8cde0d2527d0f465bbd;dbname=d5jt6vji9s8ql3",
+;port=5432;user=rfyftldvgpjvof;password=ef434efcc0cc614b7a97861a9d8f128216fe18a48cb8a53d8251d3d81c6a757a;dbname=d7shjko65up6ph",
         $db["host"],
         $db["port"],
         $db["user"],
