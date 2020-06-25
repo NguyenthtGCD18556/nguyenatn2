@@ -13,9 +13,9 @@
         left: 50%;
         width: 40em;
         height: auto;
-        position: absolute;
+        position: relative;
     }
-    .input .box{
+    .li .input .box{
         width: 8em;
         height: 0.5em;
         boder: 1px solid blue;
