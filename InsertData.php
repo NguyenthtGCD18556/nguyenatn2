@@ -12,9 +12,10 @@
         top: 50%;
         left: 50%;
         width: 40em;
-        height: auto
+        height: auto;
+        position: absolute;
     }
-    .input{
+    .input .box{
         width: 8em;
         height: 0.5em;
         boder: 1px solid blue;
@@ -30,9 +31,9 @@ list-style: none;
 <h1>INSERT PRODUCT</h1>
 <ul>
     <form name="InsertData" action="InsertData.php" method="POST" >
-<li>ID:</li><li><input type="text" name="id" /></li>
-<li>Name:</li><li><input type="text" name="name" /></li>
-<li>Price:</li><li><input type="text" name="price" /></li>
+<li>ID:</li><li><input class="box" type="text" name="id" /></li>
+<li>Name:</li><li><input class="box" type="text" name="name" /></li>
+<li>Price:</li><li><input class="box" type="text" name="price" /></li>
 <li><input type="submit" value="Submit" /></li>
 </form>
 </ul>
