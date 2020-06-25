@@ -62,15 +62,15 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="img/tt4.png" alt="Facebook" style="width:100%;">
+          <img src="img/banner1.png" alt="Facebook" style="width:100%;">
       </div>
 
       <div class="item">
-        <img src="img/tt5.png" alt="Instagram" style="width:100%">
+          <img src="img/banner2.png" alt="Instagram" style="width:100%">
       </div>
     
       <div class="item">
-        <img src="img/tt6.png" alt="Youtube" style="width:100%;">
+          <img src="img/banner3.png" alt="Youtube" style="width:100%;">
       </div>
     </div>
 
