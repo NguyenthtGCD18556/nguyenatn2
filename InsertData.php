@@ -4,14 +4,24 @@
 <title>Insert data to PostgreSQL with php - creating a simple web application</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <style>
+    body{
+        background-color: grey;
+        color: white;
+    }
+    .table{
+        margin: 0 auto;
+        width: 40em;
+        height: auto
+    }
+    
 li {
 list-style: none;
 }
 </style>
 </head>
 <body>
-<h1>INSERT DATA TO DATABASE</h1>
-<h2>Enter data into table</h2>
+<div class="table">
+<h1>INSERT PRODUCT</h1>
 <ul>
     <form name="InsertData" action="InsertData.php" method="POST" >
 <li>ID:</li><li><input type="text" name="id" /></li>
@@ -20,7 +30,7 @@ list-style: none;
 <li><input type="submit" value="Submit" /></li>
 </form>
 </ul>
-
+</div>
 <?php
 
 if (empty(getenv("DATABASE_URL"))){
