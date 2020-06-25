@@ -3,24 +3,7 @@
     <head>
 <title>Insert data to PostgreSQL with php - creating a simple web application</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<style>
-    body{
-        background-color: grey;
-        color: white;
-    }
-    .table{
-        top: 50%;
-        left: 50%;
-        width: 40em;
-        height: auto;
-        position: relative;
-    }
-    .li .input .box{
-        width: 8em;
-        height: 0.5em;
-        boder: 1px solid blue;
-        border-radius: 1em;
-    }
+<style>  
 li {
 list-style: none;
 }
