@@ -9,11 +9,17 @@
         color: white;
     }
     .table{
-        margin: 0 auto;
+        top: 50%;
+        left: 50%;
         width: 40em;
         height: auto
     }
-    
+    .input{
+        width: 8em;
+        height: 0.5em;
+        boder: 1px solid blue;
+        border-radius: 1em;
+    }
 li {
 list-style: none;
 }
